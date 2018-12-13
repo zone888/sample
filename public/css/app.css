@@ -8478,3 +8478,11 @@ select,
   margin-bottom: 15px;
 }
 
+#logout {
+  cursor: default;
+}
+
+#logout:hover {
+  background-color: transparent;
+}
+
